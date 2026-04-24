@@ -37,11 +37,11 @@ Unity와 C# 을 집중적으로 공부하며 유니티 게임제작을 집중적
 
 **개발 기간 : 25.12 ~ 26.02 **
 
-**게임 환경 : PC(Windows)
-**엔진 : Unity 2022.3.62f2**
-**환경 : Visual Studio 2022**
-**버전 관리 : Git**
-**협업 툴 :  Trello  |  Notion  |  Figma**
+- 게임 환경 : PC(Windows)
+- 엔진 : Unity 2022.3.62f2
+- 환경 : Visual Studio 2022
+- 버전 관리 : Git
+- 협업 툴 :  Trello  |  Notion  |  Figma
 
 ### 🛠️ Core Systems Developed
 - **Dialogue System**: 데이터 기반의 대화 시퀀스 및 분기 처리 시스템 구축
