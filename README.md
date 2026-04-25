@@ -33,7 +33,7 @@ Unity와 C# 을 집중적으로 공부하며 유니티 게임제작을 집중적
 
 **게임 타이틀: [근무 중 이상 무(ON DUTY: ALL CLEAR)]**
 
-**개발 인원 : 기획 1인 / 아트 1인 / 개발 3인**
+**개발 인원 : 기획 1인 / 아트 1인 / 프로그래머 3인**
 
 **개발 기간 : 25.12 ~ 26.02 **
 
@@ -41,7 +41,7 @@ Unity와 C# 을 집중적으로 공부하며 유니티 게임제작을 집중적
 - 엔진 : Unity 2022.3.62f2
 - 환경 : Visual Studio 2022
 - 버전 관리 : Git
-- 협업 툴 :  Trello  |  Notion  |  Figma
+- 협업 툴 :  Trello  |  Notion  |  Figma  | Slack
 
 ### 🛠️ Core Systems Developed
 - **Dialogue System**: 데이터 기반의 대화 시퀀스 및 분기 처리 시스템 구축
