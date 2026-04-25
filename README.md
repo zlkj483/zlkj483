@@ -1,4 +1,4 @@
-# 🔎 Game Programmer : [Lim Sung Gyu]
+# 🔎 Unity Client Programmer : [Lim Sung Gyu]
 
 "단순한 기능 구현을 넘어, 유연한 시스템 설계와 사용자 피드백이 살아있는 플레이를 지향합니다."
 
