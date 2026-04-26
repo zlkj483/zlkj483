@@ -4,7 +4,7 @@
 
 안녕하세요, 탄탄한 C# 기초와 Unity 엔진 활용 능력을 바탕으로 게임의 코어를 설계하는 프로그래머 [임성규]입니다. 유저의 조작이 게임 속 물리 법칙과 상호작용할 때 발생하는 디테일을 조율하는 것에 즐거움을 느끼며, 확장성 있는 코드로 팀의 생산성에 기여하고자 합니다.
 
-Unity와 C# 을 집중적으로 공부하며 유니티 게임제작을 집중적으로 공부하고 있습니다.
+Unity와 C# 을 집중적으로 공부하며 유니티 게임제작을 하고 있습니다.
 
 ## 🔍 Tech Stack
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/UNITY-222222?style=flat-square&logo=Unity&logoColor=white"/>
